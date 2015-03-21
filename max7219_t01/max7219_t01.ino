@@ -43,9 +43,9 @@ function maxInUse  keeps track of this, just tell it how many max7219 you are
 using.
 */
  
-int dataIn = 8;
-int load = 9;
-int clock = 10;
+int dataIn = 43;
+int load = 45;
+int clock = 47;
  
 int maxInUse = 4;    //change this variable to set how many MAX7219's you'll use
  

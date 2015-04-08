@@ -43,7 +43,7 @@ int16_t gx, gy, gz;
  #define CsPin 9
  #define ClkPin 10
  #define chipno 0
- #define chips 5
+ #define chips 4
  #define melodyPin 7
  
 //LedControl lc=LedControl(12,10,11,9);
